@@ -1,0 +1,11 @@
+
+--  CREATE TABLE IF NOT EXISTS tbl_lu_clientes(
+--     nome_fantasia varchar(255),
+--     razao_social varchar(255),
+--     cnpj varchar(14),
+--     logradouro varchar(100),
+--     numero int,
+--     bairro varchar(100),
+--     cidade varchar(100),
+--     estado varchar(100)
+-- );
